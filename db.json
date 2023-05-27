@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "profession": "Student",
+      "skills": "",
+      "hourly_rate": "",
+      "profile_picture": "",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "Kuldeep Tiwari",
+      "email": "kkt55567tiwari@gmail.com",
+      "password": "55567",
+      "profession": "Web Developer",
+      "skills": "HTML JavaScript CSS",
+      "hourly_rate": "500",
+      "profile_picture": "images.jpg",
+      "isBooked": false,
+      "id": 4
+    }
+  ],
+  "freelancers": [
+    {
+      "name": "Kuldeep Tiwari",
+      "email": "kkt55567tiwari@gmail.com",
+      "password": "122",
+      "profession": "Student",
+      "skills": "HTML JavaScript CSS",
+      "hourly_rate": "112",
+      "profile_picture": "https://p.kindpng.com/picc/s/474-4747320_family-guy-peter-face-hd-png-download.png",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Devil EYE",
+      "email": "satya@gmail.com",
+      "password": "12344",
+      "profession": "Graphic Designer",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "hourly_rate": "234",
+      "profile_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXlfi53WdBgRqfP2gwb6yrMCfV7WOCCqH48JYEzZn&s",
+      "isBooked": true,
+      "id": 2
+    },
+    {
+      "name": "Shivam Kumar",
+      "email": "Shivam@gmail.com",
+      "password": "shiam",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "hourly_rate": "123",
+      "profile_picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fHww&w=1000&q=80",
+      "isBooked": false,
+      "id": 3
+    }
+  ]
+}
